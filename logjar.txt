@@ -796,3 +796,7 @@ OK
 [I/AndroidCtrl(2018-04-16 14:17:01:131:):]device offline
 [I/AndroidCtrl(2018-04-16 14:17:01:236:):]device offline
 [I/AndroidCtrl(2018-04-16 14:17:01:341:):]device offline
+
+hello world！！！
+
+
