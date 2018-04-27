@@ -1,0 +1,798 @@
+[I/AndroidCtrl(2015-04-07 13:29:24:403:):]list count 1
+[I/AndroidCtrl(2015-04-07 13:29:24:417:):]get device ###192.168.200.60:5555:ONLINE
+[I/AndroidCtrl(2015-04-07 13:29:24:457:):]get#####RUNNING
+OK
+
+[I/AndroidCtrl(2015-04-07 13:29:24:621:):]get#####{480,800}
+OK
+
+[I/AndroidCtrl(2015-04-07 13:29:24:722:):]fb_width###480
+[I/AndroidCtrl(2015-04-07 13:29:24:723:):]fb_height###800
+[I/AndroidCtrl(2015-04-07 13:29:30:081:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:30:082:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:30:683:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:30:685:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:31:066:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:31:068:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:31:521:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:31:568:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:32:068:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:32:083:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:32:510:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:32:584:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:33:071:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:33:072:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:33:506:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:33:573:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:34:070:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:34:072:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:34:533:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:34:575:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:35:070:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:35:072:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:35:507:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:35:573:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:36:072:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:36:076:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:36:554:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:36:577:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:37:075:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:37:077:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:37:506:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:37:579:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:38:073:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:38:075:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:38:534:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:38:678:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:39:074:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:39:077:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:39:540:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:39:580:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:40:074:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:40:075:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:40:514:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:40:577:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:41:076:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:41:083:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:41:542:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:41:585:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:42:077:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:42:078:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:42:508:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:42:579:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:43:078:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:43:080:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:43:538:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:43:581:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:44:079:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:44:081:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:44:536:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:44:582:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:45:080:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:45:082:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:45:509:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:45:583:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:46:081:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:46:082:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:46:518:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:46:583:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2015-04-07 13:29:47:081:):]screenshot ###adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:47:082:):]command: adb -s 192.168.200.60:5555 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2015-04-07 13:29:47:511:):]exit value = 0
+[I/AndroidCtrl(2015-04-07 13:29:47:584:):]screenshot ###192.168.200.60:5555 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:04:062:):]list count 1
+[I/AndroidCtrl(2018-04-16 14:16:04:100:):]get device ###192.168.200.244:5506:OFFLINE
+[I/AndroidCtrl(2018-04-16 14:16:04:173:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:279:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:384:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:490:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:595:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:700:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:805:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:04:911:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:05:016:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:05:121:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:226:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:332:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:438:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:544:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:651:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:764:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:871:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:05:973:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:078:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:184:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:291:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:393:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:495:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:604:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:711:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:819:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:06:925:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:07:027:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:07:133:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:07:240:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:07:241:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:07:242:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:07:243:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:07:499:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:07:545:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:07:551:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:07:658:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:07:763:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:07:866:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:07:972:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:078:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:097:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:08:098:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:08:139:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:08:184:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:199:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:08:223:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:289:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:329:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:400:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:435:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:436:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:08:437:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:08:438:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:08:480:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:08:506:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:538:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:08:612:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:717:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:825:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:08:931:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:033:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:097:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:09:098:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:09:138:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:09:140:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:199:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:09:205:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:246:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:312:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:352:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:418:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:419:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:09:420:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:09:421:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:09:460:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:470:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:09:521:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:09:577:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:683:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:790:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:09:896:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:002:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:098:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:10:099:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:10:108:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:141:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:10:199:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:10:206:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:213:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:311:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:320:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:416:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:417:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:10:418:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:10:419:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:10:425:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:474:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:10:520:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:10:535:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:641:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:10:642:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:10:643:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:10:644:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:10:712:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:10:745:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:11:098:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:11:100:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:11:144:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:11:201:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:11:207:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:11:312:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:11:418:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:11:419:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:11:420:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:11:420:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:11:557:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:11:621:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:12:099:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:12:100:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:12:146:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:12:201:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:12:207:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:12:312:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:12:418:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:12:419:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:12:420:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:12:421:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:12:561:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:12:621:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:13:100:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:13:173:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:13:240:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:13:273:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:13:279:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:13:385:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:13:491:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:13:492:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:13:493:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:13:494:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:13:547:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:13:594:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:14:101:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:14:102:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:14:148:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:14:203:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:14:209:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:14:314:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:14:419:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:14:420:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:14:421:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:14:422:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:14:588:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:14:622:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:15:102:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:15:104:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:15:157:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:15:204:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:15:210:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:15:315:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:15:420:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:15:421:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:15:422:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:15:423:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:15:531:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:15:623:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:16:103:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:16:105:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:16:151:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:16:205:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:16:211:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:16:317:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:16:422:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:16:423:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:16:424:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:16:425:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:16:484:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:16:526:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:17:105:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:17:106:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:17:149:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:17:207:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:17:213:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:17:411:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:17:516:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:17:517:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:17:518:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:17:519:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:17:569:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:17:619:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:18:105:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:18:106:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:18:145:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:18:207:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:18:213:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:18:318:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:18:423:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:18:424:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:18:425:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:18:426:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:18:492:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:18:526:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:19:107:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:19:108:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:19:148:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:19:208:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:19:214:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:19:319:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:19:426:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:19:427:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:19:428:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:19:429:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:19:482:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:19:530:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:20:107:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:20:108:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:20:154:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:20:209:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:20:215:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:20:320:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:20:425:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:20:426:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:20:427:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:20:428:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:20:488:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:20:528:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:21:108:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:21:110:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:21:169:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:21:210:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:21:216:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:21:321:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:21:427:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:21:428:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:21:429:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:21:430:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:21:499:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:21:540:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:22:109:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:22:111:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:22:165:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:22:211:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:22:217:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:22:323:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:22:429:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:22:430:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:22:431:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:22:431:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:22:476:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:22:532:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:23:110:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:23:111:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:23:166:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:23:212:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:23:218:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:23:323:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:23:428:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:23:429:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:23:429:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:23:429:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:23:622:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:23:630:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:24:110:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:24:111:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:24:148:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:24:211:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:24:217:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:24:322:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:24:428:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:24:429:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:24:429:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:24:430:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:25:843:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:25:931:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:26:112:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:26:113:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:26:161:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:26:213:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:26:219:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:26:325:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:26:431:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:26:432:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:26:432:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:26:433:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:26:578:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:26:633:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:26:998:):]press x######187
+[I/AndroidCtrl(2018-04-16 14:16:26:998:):]press y######486
+[I/AndroidCtrl(2018-04-16 14:16:26:999:):]real x######240
+[I/AndroidCtrl(2018-04-16 14:16:27:049:):]real y######741
+[I/AndroidCtrl(2018-04-16 14:16:27:113:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:27:114:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:27:172:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:27:214:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:27:220:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:325:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:430:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:431:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:27:431:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:27:432:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:27:485:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:27:532:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:27:557:):]release x######187
+[I/AndroidCtrl(2018-04-16 14:16:27:558:):]release y######486
+[I/AndroidCtrl(2018-04-16 14:16:27:558:):]real x######240
+[I/AndroidCtrl(2018-04-16 14:16:27:558:):]real y######741
+[I/AndroidCtrl(2018-04-16 14:16:27:564:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:670:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:776:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:881:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:27:986:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:092:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:197:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:303:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:408:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:513:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:619:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:724:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:829:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:28:935:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:040:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:145:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:250:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:356:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:461:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:566:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:672:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:777:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:882:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:29:987:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:093:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:199:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:305:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:410:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:515:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:620:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:621:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:30:622:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:30:622:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:30:682:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:30:722:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:30:726:):]press x######186
+[I/AndroidCtrl(2018-04-16 14:16:30:727:):]press y######480
+[I/AndroidCtrl(2018-04-16 14:16:30:727:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:30:727:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:30:728:):]release x######186
+[I/AndroidCtrl(2018-04-16 14:16:30:728:):]release y######480
+[I/AndroidCtrl(2018-04-16 14:16:30:728:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:30:729:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:30:735:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:840:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:30:946:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:052:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:158:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:264:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:370:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:476:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:581:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:686:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:791:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:31:896:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:002:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:108:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:213:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:319:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:425:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:531:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:636:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:741:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:847:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:32:952:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:057:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:162:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:267:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:372:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:478:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:583:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:688:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:793:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:33:794:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:33:794:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:33:795:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:33:841:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:33:895:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:33:896:):]press x######186
+[I/AndroidCtrl(2018-04-16 14:16:33:896:):]press y######480
+[I/AndroidCtrl(2018-04-16 14:16:33:896:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:33:897:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:33:897:):]release x######186
+[I/AndroidCtrl(2018-04-16 14:16:33:898:):]release y######480
+[I/AndroidCtrl(2018-04-16 14:16:33:898:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:33:898:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:33:904:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:010:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:115:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:221:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:327:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:432:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:537:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:643:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:748:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:854:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:34:959:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:064:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:169:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:274:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:380:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:485:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:590:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:695:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:801:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:35:906:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:012:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:117:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:223:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:328:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:434:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:540:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:645:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:750:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:855:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:36:960:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:081:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:37:081:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:37:082:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:37:144:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:37:182:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:37:183:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:37:183:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:37:222:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:37:284:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:37:290:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:395:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:501:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:502:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:37:502:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:37:503:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:37:555:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:37:604:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:37:630:):]press x######186
+[I/AndroidCtrl(2018-04-16 14:16:37:630:):]press y######480
+[I/AndroidCtrl(2018-04-16 14:16:37:630:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:37:631:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:37:631:):]release x######186
+[I/AndroidCtrl(2018-04-16 14:16:37:684:):]release y######480
+[I/AndroidCtrl(2018-04-16 14:16:37:684:):]real x######238
+[I/AndroidCtrl(2018-04-16 14:16:37:685:):]real y######732
+[I/AndroidCtrl(2018-04-16 14:16:37:691:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:796:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:37:901:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:006:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:112:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:217:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:323:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:429:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:534:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:639:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:744:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:849:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:38:954:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:060:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:165:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:270:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:375:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:480:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:585:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:690:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:796:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:39:901:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:007:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:112:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:217:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:323:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:428:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:533:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:639:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:745:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:40:746:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:40:746:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:40:747:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:40:810:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:40:847:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:40:856:):]press x######150
+[I/AndroidCtrl(2018-04-16 14:16:40:857:):]press y######8
+[I/AndroidCtrl(2018-04-16 14:16:41:056:):]real x######192
+[I/AndroidCtrl(2018-04-16 14:16:41:057:):]real y######12
+[I/AndroidCtrl(2018-04-16 14:16:41:057:):]release x######131
+[I/AndroidCtrl(2018-04-16 14:16:41:058:):]release y######300
+[I/AndroidCtrl(2018-04-16 14:16:41:058:):]real x######168
+[I/AndroidCtrl(2018-04-16 14:16:41:058:):]real y######458
+[I/AndroidCtrl(2018-04-16 14:16:41:064:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:169:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:275:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:380:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:485:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:591:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:696:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:801:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:41:906:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:011:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:116:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:222:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:327:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:434:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:539:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:645:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:751:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:856:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:42:961:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:066:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:172:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:277:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:382:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:488:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:593:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:699:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:804:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:43:909:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:015:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:121:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:122:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:44:122:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:44:123:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:44:176:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:44:223:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:44:224:):]press x######155
+[I/AndroidCtrl(2018-04-16 14:16:44:224:):]press y######20
+[I/AndroidCtrl(2018-04-16 14:16:44:224:):]real x######198
+[I/AndroidCtrl(2018-04-16 14:16:44:225:):]real y######30
+[I/AndroidCtrl(2018-04-16 14:16:44:225:):]release x######169
+[I/AndroidCtrl(2018-04-16 14:16:44:226:):]release y######282
+[I/AndroidCtrl(2018-04-16 14:16:44:226:):]real x######216
+[I/AndroidCtrl(2018-04-16 14:16:44:226:):]real y######430
+[I/AndroidCtrl(2018-04-16 14:16:44:233:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:338:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:443:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:548:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:654:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:759:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:865:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:44:971:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:45:076:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:45:181:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:45:286:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:45:391:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:45:496:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:45:601:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:45:706:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:45:811:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:45:916:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:021:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:126:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:291:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:396:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:501:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:606:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:711:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:817:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:46:922:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:47:027:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:47:133:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:47:239:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:47:344:):]device not found
+[I/AndroidCtrl(2018-04-16 14:16:47:345:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:47:345:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:47:346:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:47:411:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:47:446:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:47:447:):]screenshot ###adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:47:447:):]command: adb -s 192.168.200.244:5506 shell screencap /mnt/sdcard/fb.png
+[I/AndroidCtrl(2018-04-16 14:16:47:508:):]exit value = -1
+[I/AndroidCtrl(2018-04-16 14:16:47:548:):]screenshot ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:47:554:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:47:659:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:47:764:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:47:765:):]fail num 3 max 3
+[I/AndroidCtrl(2018-04-16 14:16:47:765:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:47:766:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:47:820:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:47:866:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:47:909:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:014:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:119:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:224:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:329:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:435:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:541:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:647:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:752:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:857:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:48:962:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:067:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:172:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:277:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:382:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:487:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:592:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:697:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:803:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:49:908:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:013:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:118:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:223:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:329:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:434:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:539:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:644:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:749:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:854:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:959:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:50:960:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:50:960:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:50:961:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:52:016:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:52:061:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:52:068:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:174:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:279:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:384:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:489:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:594:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:699:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:805:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:52:910:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:015:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:120:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:225:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:330:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:435:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:540:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:645:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:750:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:855:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:53:960:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:065:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:170:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:276:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:381:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:486:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:591:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:696:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:801:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:54:906:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:012:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:118:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:119:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:55:120:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:55:120:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:55:186:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:55:221:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:55:227:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:332:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:437:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:542:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:647:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:752:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:857:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:55:962:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:067:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:172:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:278:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:383:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:489:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:595:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:700:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:805:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:56:910:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:015:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:125:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:230:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:335:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:440:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:545:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:650:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:755:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:860:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:57:965:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:070:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:175:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:281:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:282:):]fail num 30 max 30
+[I/AndroidCtrl(2018-04-16 14:16:58:282:):]connect device ###adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:58:282:):]command: adb connect 192.168.200.244:5506
+[I/AndroidCtrl(2018-04-16 14:16:58:336:):]exit value = 0
+[I/AndroidCtrl(2018-04-16 14:16:58:383:):]connect device ###192.168.200.244:5506 SUCCESS
+[I/AndroidCtrl(2018-04-16 14:16:58:389:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:494:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:599:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:704:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:809:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:58:914:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:019:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:124:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:229:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:334:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:439:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:544:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:649:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:755:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:868:):]device offline
+[I/AndroidCtrl(2018-04-16 14:16:59:974:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:080:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:185:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:290:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:395:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:500:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:605:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:711:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:816:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:00:921:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:01:026:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:01:131:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:01:236:):]device offline
+[I/AndroidCtrl(2018-04-16 14:17:01:341:):]device offline

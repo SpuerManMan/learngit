@@ -1,0 +1,1 @@
+java -jar AndroidCtrl.jar 0
